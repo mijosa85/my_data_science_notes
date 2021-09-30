@@ -1,1 +1,3 @@
 09/21/21 Cloning a Github repository
+09/29/21 Using case statements to select custom columns
+09/30/21 Opening and editing Python files, using Python 'print' function

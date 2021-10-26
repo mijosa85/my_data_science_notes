@@ -7,3 +7,4 @@
 10/7/21 Importing modules in python
 10/12/21 Matplotlib functions
 10/13/21  Numpy arrays and functions
+10/26/21 Storytelling with data

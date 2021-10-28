@@ -8,3 +8,4 @@
 10/12/21 Matplotlib functions
 10/13/21  Numpy arrays and functions
 10/26/21 Storytelling with data
+10/27/21 Navigating Tableau

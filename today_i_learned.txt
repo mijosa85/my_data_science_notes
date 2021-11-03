@@ -9,3 +9,5 @@
 10/13/21  Numpy arrays and functions
 10/26/21 Storytelling with data
 10/27/21 Navigating Tableau
+11/1/21 Generating random numbers  using Numpy
+11/2/21 Normal, binomial, poisson, and  uniform  distributions

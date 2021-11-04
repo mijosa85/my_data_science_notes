@@ -11,3 +11,4 @@
 10/27/21 Navigating Tableau
 11/1/21 Generating random numbers  using Numpy
 11/2/21 Normal, binomial, poisson, and  uniform  distributions
+11/3/21 Practice with scipy.stats module

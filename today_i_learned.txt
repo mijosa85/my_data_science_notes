@@ -13,3 +13,4 @@
 11/2/21 Normal, binomial, poisson, and  uniform  distributions
 11/3/21 Practice with scipy.stats module
 11/4/21 Hypothesis testing, t-test
+11/5/21  correlation testing
